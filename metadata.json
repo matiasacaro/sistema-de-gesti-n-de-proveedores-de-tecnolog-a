@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestión de Proveedores de Tecnología",
+  "description": "Una aplicación para la administración integral del 'Registro de Proveedores de Tecnología para la Constatación de Infracciones de Tránsito', permitiendo gestionar proveedores, tecnologías, trámites y documentación asociada.",
+  "requestFramePermissions": []
+}
